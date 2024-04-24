@@ -1,0 +1,20 @@
+DUPLICATE IMAGE URLs
+--------------------------------------------------
+
+- /us/images/global/nav/lg-gate-learnabout.png
+- https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_72,h_72/https://www.semetrical.com/wp-content/themes/semetrical-child/assets/img/social_media/footer/linkedin.webp
+- /lg3-common-v2/images/megagnb/learn-about-04.png
+- /us/images/global/nav/learn-about-01.png
+- https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_81,h_80/https://www.semetrical.com/wp-content/themes/semetrical-child/assets/img/social_media/footer/instagram.webp
+- https://www.lumar.io/wp-content/uploads/2022/09/fandom-logo-300x93.png
+- https://www.lumar.io/wp-content/uploads/2022/09/Frame-1000004378-1.png
+- /image_link.png
+- /lg3-common-v2/images/megagnb/learn-about-05.png
+- /us/images/appliance-accessories/wdp4c/gallery/small01.jpg
+- https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_72,h_72/https://www.semetrical.com/wp-content/themes/semetrical-child/assets/img/social_media/footer/twitter.webp
+- https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_19,h_13/https://www.semetrical.com/wp-content/themes/semetrical-child/assets/img/arrows/arrow-orange.webp
+- https://www.lumar.io/wp-content/uploads/2022/09/arriva-bus-uk-logo-transparent-bg-300x87.png
+- https://www.lumar.io/wp-content/uploads/2022/09/cox-automotive-300x105.png
+- /lg3-common-v2/images/megagnb/learn-about-06.png
+- https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_47,h_80/https://www.semetrical.com/wp-content/themes/semetrical-child/assets/img/social_media/footer/facebook.webp
+- /lg3-common/images/global/b.gif
