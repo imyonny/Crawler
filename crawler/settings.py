@@ -1,7 +1,7 @@
 BOT_NAME = "crawler_project"
 
-SPIDER_MODULES = ["akamai_crawler.spiders"]
-NEWSPIDER_MODULE = "akamai_crawler.spiders"
+SPIDER_MODULES = ["crawler.spiders"]
+NEWSPIDER_MODULE = "crawler.spiders"
 
 LOG_LEVEL = 'ERROR'  # Adjust log level as needed for debugging or monitoring
 

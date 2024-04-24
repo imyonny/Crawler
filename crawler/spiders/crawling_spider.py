@@ -1,11 +1,11 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from akamai_crawler.items import LinkItem
-from akamai_crawler.report_generator import (ReportGenerator)
+from crawler.items import LinkItem
+from crawler.report_generator import (ReportGenerator)
 
 
-class AkamaiSpider(CrawlSpider):
-    name = "akamai_crawler"
+class Spider(CrawlSpider):
+    name = "crawler"
     allowed_domains = ["crawler-test.com"]
     start_urls = ["https://crawler-test.com/"]
     handle_httpstatus_list = [400, 403, 404, 410, 451, 500, 501, 502, 503, 504]
@@ -15,7 +15,7 @@ class AkamaiSpider(CrawlSpider):
     )
 
     def __init__(self, *args, **kwargs):
-        super(AkamaiSpider, self).__init__(*args, **kwargs)
+        super(Spider, self).__init__(*args, **kwargs)
         self.report_generator = ReportGenerator()
         self.image_urls = set()
 

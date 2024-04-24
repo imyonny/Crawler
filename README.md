@@ -1,6 +1,6 @@
-# Akamai Crawler Project
+# Crawler Project
 
-Welcome to my Crawler Project! This project aims to provide a simple web crawler built using Scrapy, a simple 
+Welcome to my Crawler Project! This project aims to provide a simple web crawler built using Scrapy, a simple
 and flexible web scraping framework in Python.
 
 ## What is Scrapy?
@@ -12,12 +12,12 @@ the process of gathering information, and perform tasks like scraping, crawling,
 
 To run this Scrapy project, you'll need the following dependencies:
 
-- Python 
+- Python
 - Scrapy
 
 ## Installation
 
-Before running the Scrapy crawler, make sure you have Python installed on your system. You can install Scrapy and 
+Before running the Scrapy crawler, make sure you have Python installed on your system. You can install Scrapy and
 other required dependencies using pip:
 
 ```bash
@@ -26,7 +26,7 @@ pip install scrapy
 
 ## Usage
 
-To run the Scrapy crawler, execute the `main.py` script provided in the project. The crawler will start crawling the 
+To run the Scrapy crawler, execute the `main.py` script provided in the project. The crawler will start crawling the
 specified website and generate reports containing extracted data.
 
 ```bash

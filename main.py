@@ -1,11 +1,11 @@
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
-from akamai_crawler.spiders.crawling_spider import AkamaiSpider
+from crawler.spiders.crawling_spider import Spider
 
 
 def main():
     process = CrawlerProcess(get_project_settings())
-    process.crawl(AkamaiSpider)
+    process.crawl(Spider)
     process.start()
 
 
